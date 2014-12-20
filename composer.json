@@ -1,0 +1,20 @@
+{
+    "name": "rudidevries/kaku-bundle",
+    "description": "This library provides a basic object interface for calling a the KAKU program to switch devices with the Raspberry Pi and a 433mhz transmitter.",
+    "require": {
+        "rudidevries/kaku": "dev-master",
+        "symfony/framework-bundle": "~2.2"
+    },
+    "authors": [
+        {
+            "name": "Rudi de Vries",
+            "email": "rudidevries@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "RudideVries\\Bundle\\KakuBundle\\": ""
+        }
+    }
+}
