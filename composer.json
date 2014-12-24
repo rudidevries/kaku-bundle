@@ -16,5 +16,6 @@
         "psr-4": {
             "RudideVries\\Bundle\\KakuBundle\\": ""
         }
-    }
+    },
+    "license": "MIT"
 }
